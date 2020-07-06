@@ -1,3 +1,5 @@
-module github.com/amsokol/go-eccodes
+module github.com/pehowell/go-eccodes
 
 go 1.13
+
+require github.com/pkg/errors v0.9.1

@@ -9,7 +9,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/amsokol/go-eccodes/debug"
+	"github.com/pehowell/go-eccodes/debug"
 )
 
 const MaxStringLength = 1030

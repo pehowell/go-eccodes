@@ -1,10 +1,10 @@
-IMAGE_BUILDER_NAME = amsokol/go-eccodes/centos-builder
+IMAGE_BUILDER_NAME = pehowell/go-eccodes/centos-builder
 IMAGE_BUILDER_VERSION = latest
 
-IMAGE_EXAMPLE1_NAME = amsokol/go-eccodes/example-get-all-messages-from-file
+IMAGE_EXAMPLE1_NAME = pehowell/go-eccodes/example-get-all-messages-from-file
 IMAGE_EXAMPLE1_VERSION = latest
 
-IMAGE_EXAMPLE2_NAME = amsokol/go-eccodes/example-get-messages-from-file-by-index
+IMAGE_EXAMPLE2_NAME = pehowell/go-eccodes/example-get-messages-from-file-by-index
 IMAGE_EXAMPLE2_VERSION = latest
 
 build: build-examples
